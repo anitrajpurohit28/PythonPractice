@@ -1,0 +1,25 @@
+# 1 Python program to check if a string is palindrome or not
+# 2 Reverse words in a given String in Python
+# 3 Ways to remove i’th character from string in Python
+# 4 Python | Check if a Substring is Present in a Given String
+# 5 Find length of a string in python (4 ways)
+# 6 Python program to print even length words in a string
+# 7 Python | Program to accept the strings which contains all vowels
+# 8 Python | Count the Number of matching characters in a pair of string
+# 9 Python program to count number of vowels using sets in given string
+# 10 Remove all duplicates from a given string in Python
+# 11 Python | Program to check if a string contains any special character
+# 12 Generating random strings until a given string is generated
+# 13 Find words which are greater than given length k
+# 14 Python program for removing i-th character from a string
+# 15 Python program to split and join a string
+# 16 Python | Check if a given string is binary string or not
+# 17 Python | Find all close matches of input string from a list
+# 18 Python program to find uncommon words from two Strings
+# 19 Python | Swap commas and dots in a String
+# 20 Python | Permutation of a given string using inbuilt function
+# 21 Python | Check for URL in a String
+# 22 Execute a String of Code in Python
+# 23 String slicing in Python to rotate a string
+# 24 String slicing in Python to check if a string can become empty by recursive deletion
+# 25 Python Counter| Find all duplicate characters in string
